@@ -1,5 +1,5 @@
 # Aavegotchi-Subgraph-API-Node.Js-
-Simple Node.js API server to fetch Aavegotchi data from it's official subgraph
+Simple Node.js API server to fetch Aavegotchi NFTs data from it's official subgraph
 
 
 Examples:
